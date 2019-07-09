@@ -1,0 +1,12 @@
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\OpleidingKlasses.dll.config
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\OpleidingKlasses.dll
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\OpleidingKlasses.pdb
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\EntityFramework.dll
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\EntityFramework.xml
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\obj\Debug\OpleidingKlasses.csprojAssemblyReference.cache
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\obj\Debug\OpleidingKlasses.csproj.CoreCompileInputs.cache
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\obj\Debug\OpleidingKlasses.csproj.CopyComplete
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\obj\Debug\OpleidingKlasses.dll
+C:\Users\Gus Vermeulen\source\repos\AanwezigheidslijstApp\OpleidingKlasses\obj\Debug\OpleidingKlasses.pdb
